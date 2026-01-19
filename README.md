@@ -1,5 +1,5 @@
-# Crypto Intelligence Platform
-
+# BlockSentinel
+Blockchain intelligence, risk analysis and security insights for Web3 projects.
 Plataforma de inteligência, análise de risco e avaliação de maturidade para projetos Blockchain e Web3.
 
 ## Visão
